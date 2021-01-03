@@ -1,2 +1,2 @@
 # ps-simple-dl
-A simple PowerShell script to download files using Invoke-WebRequest cmdlet
+A simple PowerShell script to download files using Invoke-WebRequest cmdlet.
